@@ -15,7 +15,7 @@ Below are visual examples demonstrating the key features of the project:
 > Enter natural language queries and see how they're translated to SQL in real-time.
 
 #### SQL Output Preview
-![SQL Output](images/NLp_to_SQL.pt2.png)
+![SQL Output](images/NLp_to_SQl.pt2.png)
 > View the auto-generated SQL query with options to copy or execute it.
 
 ## Features

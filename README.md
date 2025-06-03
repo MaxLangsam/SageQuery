@@ -6,6 +6,18 @@
 
 SageQuery is a production-ready, modular, full-stack application for translating natural language to SQL, powered by advanced RAG (Retrieval-Augmented Generation) and semantic search. It features a FastAPI backend, React + Tailwind frontend, vector search with Pinecone/pgvector, and OpenAI integration for embeddings and GPT-4o.
 
+## Deployed Images
+
+Below are visual examples demonstrating the key features of the project:
+
+#### Query Interface
+![Query Interface](images/NLP_To_SQL_pt1.png)
+> Enter natural language queries and see how they're translated to SQL in real-time.
+
+#### SQL Output Preview
+![SQL Output](images/NLp_to_SQL.pt2.png)
+> View the auto-generated SQL query with options to copy or execute it.
+
 ## Features
 
 -   Natural Language → SQL translation (GPT-4o)

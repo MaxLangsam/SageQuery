@@ -90,7 +90,6 @@ SageQuery/
 ## Contributing
 
 -   Fork and PRs welcome!
--   See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
 
 ## License
 
